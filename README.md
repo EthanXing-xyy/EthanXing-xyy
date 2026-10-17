@@ -1,4 +1,4 @@
-## Hi, I'm Ethan 👋
+## Hi, I'm Ethan
 
 I work where small devices meet learning systems: getting models to run on microcontrollers at the edge, teaching robots to act from what they sense, and checking whether medical AI still holds up under honest evaluation.
 
