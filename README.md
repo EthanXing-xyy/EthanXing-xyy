@@ -8,8 +8,8 @@ By day I do serious research. By night I build silly things just to make myself 
 
 ### Education
 
-- **Master of Science in Biomedical Engineering**, National University of Singapore
-- **Bachelor of Engineering in Robotics**, Nanjing Tech University
+**Master of Science in Biomedical Engineering**, National University of Singapore\
+**Bachelor of Engineering in Robotics**, Nanjing Tech University
 
 ### Contact
 
